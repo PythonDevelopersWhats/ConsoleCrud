@@ -1,3 +1,5 @@
+#ESTE É APENAS O FRONTEND DA APLICAÇÃO, AINDA FALTA O BANCO DE DADOS O BACKEND
+
 from tkinter import *
 
 class Cadastro():
